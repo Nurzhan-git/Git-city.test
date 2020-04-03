@@ -5,6 +5,3 @@
 # Queens
 # Chicago
 # Philadelphia
-# Feasterville-Trevose
-# Philadelphia
-# Baltimor 
