@@ -1,4 +1,4 @@
-# Sas Tobe , Shouth KAz
+# Sas Tobe , Shouth Kaz
 # Almaty, Almaty
 # New York, NY
 # Brooklyn, NY
@@ -7,3 +7,4 @@
 # Philadelphia, PA 
 # Feasterville-Trevose, PA
 # Philadelphia, PA 
+# Baltimor, MD
